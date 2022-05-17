@@ -1,4 +1,4 @@
-## Getting Started
+## Welcome
 
-Welcome!
-This project created for my examination
+Hello!
+This project was created for my examination
